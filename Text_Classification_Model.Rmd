@@ -1,9 +1,3 @@
----
-title: "Classification Model"
-output: html_notebook
-author: Ulf Kavlie
----
-
 # SETTINGS
 
 ```{r setup}
